@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently studying computer engineering at Universidade Federal de Espírito Santo(UFES)
+- 🔭 I’m currently studying computer engineering at Universidade Federal do Espírito Santo(UFES)
 - 🌱 I’m currently learning data science
 - 📫 How to reach me: luiz.fillipe.2000@hotmail.com
 - 😄 Pronouns: he/him

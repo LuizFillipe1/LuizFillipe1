@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying computer engineering at Universidade Federal do Espírito Santo(UFES)
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning web scraping
 - 📫 How to reach me: luiz.fillipe.2000@hotmail.com
 - 😄 Pronouns: he/him
 - 👔 Linkedin: https://www.linkedin.com/in/luizfillipe/

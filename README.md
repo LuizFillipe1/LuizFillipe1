@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning web scraping and javascript
 - 📫 How to reach me: luiz.fillipe.2000@hotmail.com
 - 😄 Pronouns: he/him
-- 👔 Linkedin: https://www.linkedin.com/in/luizfillipe/
+- 👔 Linkedin: https://www.linkedin.com/in/luizfillipe
 
 <div align="center">
   <a href="https://github.com/LuizFillipe1">
